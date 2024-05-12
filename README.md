@@ -5,7 +5,6 @@
 
 - 🔭 I’m currently working on a in a project to implement a solution to a classic SAP ERP problem;
 - 🌱 I’m currently learning Java and Node;
-- 🤔 I’m looking for help with;
 - 💬 Ask me about anything;
 - 📫 How to reach me: alissonodo@gmail.com  
 - ⚡ Fun fact: οὗτος μὲν οἴεταί τι εἰδέναι οὐκ εἰδώς, ἐγὼ δέ, ὥσπερ οὖν οὐκ οἶδα, οὐδὲ οἴομαι;
